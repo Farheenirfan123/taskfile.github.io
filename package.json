@@ -1,0 +1,18 @@
+{
+  "name": "backens-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "chacha": "echo \"app is running",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farheen Irfan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
